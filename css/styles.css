@@ -1,16 +1,24 @@
 .body {
     font-family: 'Roboto', sans-serif;
-        color: #2a2a2a;
+        color: #434455;
         background-color: #fff; 
 }
 .header {
     background: #fff;
 }
-.nav a {
+.logo-header {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
-        font-size: 18px;
-        color: #4d5ae5;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.web-header {
+    color: #4d5ae5;
+}
+.studio-header {
+    color: #2e2f42;
 }
 .nav li {
     font-family: "Roboto", sans-serif;
@@ -98,15 +106,20 @@
 .footer {
     background: #2e2f42;
 }
-.footer a {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
+.logo-footer {
+font-weight: 700;
     font-size: 18px;
-    color: #4d5ae5;
+    line-height: 1.16667;
 }
 .footer p {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 18px;
     color: #f4f4fd;
+}
+.web-footer {
+    color: #4d5ae5;;
+}
+.studio-footer {
+color: #f4f4fd;
 }
