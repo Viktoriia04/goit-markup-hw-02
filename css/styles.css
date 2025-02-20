@@ -1,0 +1,111 @@
+.body {
+    font-family: 'Roboto', sans-serif;
+        color: #2a2a2a;
+        background-color: #fff; 
+}
+.header {
+    background: #fff;
+}
+.nav >a {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+        font-size: 18px;
+        color: #4d5ae5;
+}
+.nav >li {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #2e2f42;
+}
+.address {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #434455;
+}
+.hero {
+    background: #2e2f42;
+}
+.hero  h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    color: #fff;
+}
+.hero button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+    background: #4d5ae5;
+}
+.adventages-section  h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color:#2e2f42;;
+}
+.adventages-section p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #434455;
+}
+.team-section {
+    background: #f4f4fd;
+}
+.team-section h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+        font-size: 36px;
+        color: #2e2f42;
+}
+.team-section li {
+    background: #fff;
+}
+.team-section h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #2e2f42;
+}
+.team-section p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #434455;
+}
+.portfolio-section h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    color: #2e2f42;
+}
+.portfolio-section h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #2e2f42;
+}
+.portfolio-section p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #434455;
+}
+.footer {
+    background: #2e2f42;
+}
+.footer a {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #4d5ae5;
+}
+.footer p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #f4f4fd;
+}
