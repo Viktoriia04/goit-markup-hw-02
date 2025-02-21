@@ -19,7 +19,7 @@
 .studio-header {
     color: #2e2f42;
 }
-.link-studio, .link {
+.link {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -31,15 +31,9 @@
 .link:focus {
     color: #404bbf;
 }
-.link-studio:active,
-.link-studio:hover,
-.link-studio:focus {
-    color: #404bbf;
-}
-.adress {
-    font-style: normal
-}
-.address-link {
+
+.address {
+    font-style: normal;
     font-family: "Roboto", sans-serif;
     font-weight: 400;
         font-size: 16px;
@@ -47,7 +41,7 @@
         letter-spacing: 0.02em;
         color: #434455;
 }
-.address-link:hover {
+.address:hover {
     color: #404bbf;    
 }
 
@@ -134,6 +128,7 @@
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 
