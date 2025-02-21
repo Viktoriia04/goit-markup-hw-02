@@ -27,12 +27,10 @@
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.link:hover {
+.link:hover,
+.link:focus {
         color: #404bbf;
     }
-.link:focus {
-    color: #404bbf;
-}
 
 .address {
     font-style: normal;
@@ -43,7 +41,8 @@
         letter-spacing: 0.02em;
         color: #434455;
 }
-.address:hover {
+.address:hover,
+.address:focus {
     color: #404bbf;    
 }
 
